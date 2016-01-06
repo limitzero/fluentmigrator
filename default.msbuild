@@ -5,7 +5,7 @@
 	<PropertyGroup>
 		<OutputDir>dist</OutputDir>
 		<Productname>fluentmigrator</Productname>
-		<SolutionFile>$(MSBuildProjectDirectory)\FluentMigrator (2010).sln</SolutionFile>
+		<SolutionFile>$(MSBuildProjectDirectory)\FluentMigrator.sln</SolutionFile>
 	</PropertyGroup>
 	
 	<ItemGroup>
